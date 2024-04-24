@@ -1,0 +1,21 @@
+.no-decor{
+    outline: none;
+    border: none;
+    background:none;
+    text-decoration: none;
+}
+
+.item-txt{
+    font-size: .75rem;
+}
+
+.sale-badge {
+    position: absolute;
+    top: 10em;
+    right: 10em;
+    background-color: #e74c3c;
+    color: #fff;
+    font-size: 14px;
+    z-index: 0; /* Ensure the badge is on top of the content */
+    
+}

@@ -1,0 +1,17 @@
+.no-decor{
+    outline: none;
+    border: none;
+    background:none;
+    text-decoration: none;
+}
+
+.q-click{
+    color:darkgreen;
+    text-decoration: none;
+}
+
+.popup-question{
+    font-size: 2px;
+    font-weight: bolder;
+}
+
